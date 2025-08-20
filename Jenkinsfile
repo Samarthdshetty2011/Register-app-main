@@ -15,3 +15,4 @@ pipeline {
                     git branch: 'main', credentialsId: 'github', url: 'https://github.com/niroshaum/register-app'
                 }
         }
+
